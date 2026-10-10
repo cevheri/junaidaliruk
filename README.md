@@ -133,8 +133,6 @@ Browser-based tool for viewing and editing PDF documents.
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
